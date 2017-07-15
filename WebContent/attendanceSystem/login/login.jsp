@@ -55,23 +55,23 @@ a:link { text-decoration:none;}
 	background-color: #83b14e;
 	 background-image: url(../images/mainlogo.png);
 	background-repeat: no-repeat;
-	color: #ffffff;
-	margin-bottom:20px;
-
+	background-position:center 28%;
+	color: #ffffff; 
 }
 #main{
 	/* position:absolute; */
 	/* left:820px;
 	top:50px; */
+	
 	font-size: 10pt;
-	font-family : kopub돋움(bold);
+	font-family : kopub돋움(bold); 
 	width: 280px;
-	margin-left:810px;
+	margin: 0 auto;
 	/* margin-top:150px; */
 	
 }
 #id{
-	margin-top : 630px;
+	margin-top:370px;
 	height : 40px; width: 250px;
 	font-size : 10pt;
 	color:#5b5b5b;
